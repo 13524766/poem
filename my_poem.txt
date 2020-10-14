@@ -9,3 +9,5 @@ Violets are blue
 Try to love your data
 
 It works hard for you
+
+Licence: CC BY-Sa 4.0
